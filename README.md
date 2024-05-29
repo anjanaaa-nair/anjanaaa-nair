@@ -1,7 +1,5 @@
 # Hi there, I'm Anjana Nair! 👋
 
-![Profile Picture](https://via.placeholder.com/150)
-
 ## About Me
 
 I'm a passionate AI and machine learning enthusiast currently pursuing my Master of Computer Applications at VIT University. I love creating innovative software solutions and have a strong foundation in computer science.
