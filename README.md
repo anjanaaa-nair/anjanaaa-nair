@@ -12,7 +12,6 @@ I'm a passionate AI and machine learning enthusiast currently pursuing my Master
 ### 🛠️ Skills
 - **Languages:** Java, Python
 - **Machine Learning:** Scikit Learn, TensorFlow, Predictive Analytics, ML Algorithms, Model Evaluation
-- **Web:** HTML, CSS, JavaScript, ReactJS
 - **DB:** SQL, MongoDB
 - **OS:** Linux
 
